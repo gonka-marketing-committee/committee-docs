@@ -123,7 +123,7 @@ Reports on funded work may include:
 
 Current reports:
 
-- August 2026 — https://docs.google.com/document/d/1rvGtnKJHXrIeHYMwx73Jgq1ju-m89e3Dgh-HWbzSc3E/edit?usp=sharing
+- [August 2026](./reports/2026-08.md)
 - September 2026 — pending
 - October 2026 — pending
 - November 2026 — pending
@@ -144,10 +144,8 @@ For collaboration, contributors may contact any committee member.
 
 ## Current Version of This Document
 
-This document may be published or duplicated in other knowledge bases, repositories, or services across the Gonka ecosystem.
+The current version of this Charter is maintained in this GitHub repository.
 
-The current version is maintained by the Marketing Committee at:
+This document may be copied or published in other knowledge bases, repositories, or services across the Gonka ecosystem.
 
-https://docs.google.com/document/d/1mffcWGbaRws-ObL8sTFD4ncNpkS65oVsaGiGGp4AOSA/edit?usp=sharing
-
-If a copy of this document is published elsewhere, it should include a link to the current version and a note that, in case of any differences, the version linked above should be treated as the current version.
+If a copy is published elsewhere, it should include a link to this repository and a note that, in case of any differences, the version published here should be treated as the current version.
