@@ -71,7 +71,7 @@ The pilot will include:
 
 Arseny Myakotnikov has preliminarily agreed to coordinate the pilot: helping participants navigate Reddit, identify relevant communities, and organize the work of the pilot.
 
-The pilot depends on active participation from contributors, not only on the work of the coordinator. A separate 20,000 GNK contributor pool is reserved to support and reward participation in Reddit-related activities during the two-month pilot.
+The pilot depends on active participation from contributors, not only on the work of the coordinator. A separate 20,000 GNK allocation is reserved to support the pilot and reward participants in the Reddit pilot for activities completed under the program rules during the two-month pilot.
 
 Distribution will depend on actual participation and contribution during the pilot.
 
@@ -97,17 +97,18 @@ Because the pilot is not tied to calendar months, these two months begin from th
 
 An additional 200 USDT is allocated for proposal preparation and administration.
 
-| Item | Calculation | USDT |
-|---|---:|---:|
-| Marketing Committee | 6 × 300 × 3 months | 5,400 |
-| Reddit Pilot Coordinator | 600 × 2 months | 1,200 |
-| Proposal preparation and administration |  | 200 |
-| **Total** |  | **6,800** |
+| Item | Calculation | USDT | GNK |
+|---|---:|---:|---:|
+| Marketing Committee core activities | 6 × 300 USDT × 3 months + 10,000 GNK × 3 months | 5,400 | 30,000 |
+| Reddit Pilot Coordinator | 600 USDT × 2 months | 1,200 |  |
+| Proposal preparation and administration | Fixed amount | 200 |  |
+| Reddit contributor incentives |  |  | 20,000 |
+| **Total** |  | **6,800** | **50,000** |
 
 The proposal also requests 50,000 GNK:
 
-- 30,000 GNK to compensate additional workload beyond what is normally covered by the base compensation;
-- 20,000 GNK as a contributor pool to support participation and activity within the Reddit Contributor Pilot.
+- 30,000 GNK to compensate additional workload beyond what is normally covered by the base compensation for Marketing Committee core activities;
+- 20,000 GNK to reward participants in the Reddit pilot for activities completed under the program rules.
 
 Distribution will reflect actual workload and contribution for Committee work, and actual participation and contribution within the Reddit pilot.
 
