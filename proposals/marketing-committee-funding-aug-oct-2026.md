@@ -101,7 +101,7 @@ An additional 200 USDT is allocated for proposal preparation and administration.
 |---|---:|---:|---:|
 | Marketing Committee core activities | 6 × 300 USDT × 3 months + 10,000 GNK × 3 months | 5,400 | 30,000 |
 | Reddit Pilot Coordinator | 600 USDT × 2 months | 1,200 |  |
-| Proposal preparation and administration | Fixed amount | 200 |  |
+| Proposal administration | Fixed amount | 200 |  |
 | Reddit contributor incentives |  |  | 20,000 |
 | **Total** |  | **6,800** | **50,000** |
 
