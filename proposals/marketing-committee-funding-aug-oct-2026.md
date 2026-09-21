@@ -106,10 +106,10 @@ An additional 200 USDT is allocated for proposal preparation and administration.
 
 The proposal also requests 50,000 GNK:
 
-- 30,000 GNK as part of the compensation pool for Marketing Committee members for the work covered by this proposal;
+- 30,000 GNK to compensate additional workload beyond what is normally covered by the base compensation;
 - 20,000 GNK as a contributor pool to support participation and activity within the Reddit Contributor Pilot.
 
-Distribution within these pools will depend on actual contribution and participation.
+Distribution will reflect actual workload and contribution for Committee work, and actual participation and contribution within the Reddit pilot.
 
 Any funds not used within this proposal may be used for future Marketing Committee activities within its current scope. Their use will be reflected in public reporting.
 
