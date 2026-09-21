@@ -69,7 +69,11 @@ The pilot will include:
 - identifying relevant communities around AI, decentralized AI, inference, infrastructure, and related topics;
 - testing topics and participation formats without spam or direct promotion of Gonka.
 
-Arseny Myakotnikov has preliminarily agreed to coordinate the pilot: helping participants navigate Reddit, identify relevant communities, and coordinate the pilot.
+Arseny Myakotnikov has preliminarily agreed to coordinate the pilot: helping participants navigate Reddit, identify relevant communities, and organize the work of the pilot.
+
+The pilot depends on active participation from contributors, not only on the work of the coordinator. A separate **20,000 GNK contributor pool** is reserved to support and reward participation in Reddit-related activities during the two-month pilot.
+
+Distribution will depend on actual participation and contribution during the pilot.
 
 The Reddit Pilot Coordinator is a separate temporary role and is not included in the base compensation of Marketing Committee members.
 
@@ -100,9 +104,12 @@ An additional **200 USDT** is allocated for proposal preparation and administrat
 | Proposal preparation and administration |  | 200 |
 | **Total** |  | **6,800** |
 
-The proposal also requests **50,000 GNK** to compensate additional work beyond the Committee’s base workload and the participation of contributors in the Reddit Contributor Pilot.
+The proposal also requests **50,000 GNK**:
 
-Distribution of the GNK allocation will depend on the additional tasks actually completed and the contribution of individual participants.
+- **30,000 GNK** as part of the compensation pool for Marketing Committee members for the work covered by this proposal;
+- **20,000 GNK** as a contributor pool to support participation and activity within the Reddit Contributor Pilot.
+
+Distribution within these pools will depend on actual contribution and participation.
 
 Any funds not used within this proposal may be used for future Marketing Committee activities within its current scope. Their use will be reflected in public reporting.
 
@@ -124,7 +131,7 @@ By the end of the funded work, we expect:
 - regular review of contractor deliverables and commitments;
 - faster collection and consolidation of community feedback;
 - public updates on Committee work;
-- results from the two-month Reddit Contributor Pilot and enough data to assess whether the initiative should continue;
+- a group of contributors actively participating in the Reddit pilot, results from the two-month test period, and enough data to assess whether the initiative should continue;
 - a clearer understanding of which elements of the Marketing Committee model should be kept or changed going forward.
 
 ## Feedback
