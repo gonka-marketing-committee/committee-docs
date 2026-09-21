@@ -2,7 +2,7 @@
 
 ## Summary
 
-The Marketing Committee requests **6,800 USDT + 50,000 GNK** to support the Committee’s work for August–October 2026 and to run a separate two-month Reddit Contributor Pilot.
+The Marketing Committee requests 6,800 USDT + 50,000 GNK to support the Committee’s work for August–October 2026 and to run a separate two-month Reddit Contributor Pilot.
 
 The Committee operates as an independent contributor team from the Gonka community. We review marketing materials and contractor deliverables, follow up on already funded initiatives, collect and consolidate community feedback, and participate in the review of new marketing proposals.
 
@@ -12,25 +12,25 @@ Since August 1, 2026, the Committee has been working in an updated composition. 
 
 ## Why the Committee exists
 
-Several marketing contractors and initiatives are currently active in Gonka. At the time these materials were prepared, TheSoul, Input and ICG represented a combined **225,000 USDT + 128,000 GNK** in active funded work.
+Several marketing contractors and initiatives are currently active in Gonka. At the time these materials were prepared, TheSoul, Input and ICG represented a combined 225,000 USDT + 128,000 GNK in active funded work.
 
 Projects of this scale require regular follow-up: reviewing intermediate deliverables, checking alignment with approved scope, providing contractors with Gonka context, and consolidating feedback from the community.
 
 The process involves contractors, hosts, technical and marketing contributors, and other network participants. The Committee helps collect feedback in one place, review deliverables, and return consolidated comments to contractors.
 
-The Marketing Committee **is not a governance body and is not a mandatory gatekeeper for marketing proposals**. Its role is review, coordination, verification and follow-up.
+The Marketing Committee is not a governance body and is not a mandatory gatekeeper for marketing proposals. Its role is review, coordination, verification and follow-up.
 
 ## Work completed and ongoing
 
 In August, the Committee focused on reviewing contractor deliverables, following up on already funded initiatives, and reviewing new proposals.
 
-The Committee completed a detailed review of TheSoul’s Positioning and Brandbook deliverables and prepared **49 specific comments and recommendations** — 30 on Positioning and 19 on the Brandbook. The review also identified at least **6 elements from the approved Brandbook scope** that were missing or incomplete.
+The Committee completed a detailed review of TheSoul’s Positioning and Brandbook deliverables and prepared 49 specific comments and recommendations — 30 on Positioning and 19 on the Brandbook. The review also identified at least 6 elements from the approved Brandbook scope that were missing or incomplete.
 
 The Committee also participated in weekly working calls with Input, covering ongoing PR work, the quality and relevance of proposed media outlets, publication results, and current Gonka context.
 
-The Committee also reviewed two versions of the Omniverse Fest proposal for **20,000 USDT**, including organizer verification and a request for a lighter participation option. After discussion, the original format was not pursued.
+The Committee also reviewed two versions of the Omniverse Fest proposal for 20,000 USDT, including organizer verification and a request for a lighter participation option. After discussion, the original format was not pursued.
 
-Full August results are available in the **August 2026 Committee Report**.
+Full August results are available in the [August 2026 Committee Report](https://github.com/gonka-marketing-committee/committee-docs/blob/proposal/marketing-committee-funding-2026/reports/2026-08.md).
 
 Work continued in September. At the time of preparing this proposal, the Committee has already:
 
@@ -57,13 +57,13 @@ When useful, the Committee may also organize open AMAs or status sessions on cur
 
 ## Reddit Contributor Pilot
 
-Reddit remains one of the platforms where Gonka’s presence is relatively limited. Instead of immediately moving into active promotion in external subreddits, we propose running a **two-month pilot** to test what kind of approach can work for Gonka.
+Reddit remains one of the platforms where Gonka’s presence is relatively limited. Instead of immediately moving into active promotion in external subreddits, we propose running a two-month pilot to test what kind of approach can work for Gonka.
 
-The pilot will run for **two months from its actual launch** and is not tied to specific calendar months. The start date will be determined after the proposal is approved and participants are ready.
+The pilot will run for two months from its actual launch and is not tied to specific calendar months. The start date will be determined after the proposal is approved and participants are ready.
 
 The pilot will include:
 
-- launching and developing **r/GonkaHub**;
+- launching and developing r/GonkaHub;
 - involving community members who are interested in Reddit;
 - helping them become familiar with the platform and build a genuine activity history;
 - identifying relevant communities around AI, decentralized AI, inference, infrastructure, and related topics;
@@ -71,7 +71,7 @@ The pilot will include:
 
 Arseny Myakotnikov has preliminarily agreed to coordinate the pilot: helping participants navigate Reddit, identify relevant communities, and organize the work of the pilot.
 
-The pilot depends on active participation from contributors, not only on the work of the coordinator. A separate **20,000 GNK contributor pool** is reserved to support and reward participation in Reddit-related activities during the two-month pilot.
+The pilot depends on active participation from contributors, not only on the work of the coordinator. A separate 20,000 GNK contributor pool is reserved to support and reward participation in Reddit-related activities during the two-month pilot.
 
 Distribution will depend on actual participation and contribution during the pilot.
 
@@ -83,19 +83,19 @@ The pilot does not imply automatic continuation after the end of the two-month p
 
 ## Budget
 
-Base compensation for a Marketing Committee member is **300 USDT per active month**.
+Base compensation for a Marketing Committee member is 300 USDT per active month.
 
 The Committee currently consists of six members. Compensation for their work for August–October is:
 
-**6 members × 300 USDT × 3 months = 5,400 USDT.**
+6 members × 300 USDT × 3 months = 5,400 USDT.
 
 Coordination of the Reddit Contributor Pilot is compensated separately:
 
-**600 USDT per month × 2 months = 1,200 USDT.**
+600 USDT per month × 2 months = 1,200 USDT.
 
 Because the pilot is not tied to calendar months, these two months begin from the actual launch of the pilot.
 
-An additional **200 USDT** is allocated for proposal preparation and administration.
+An additional 200 USDT is allocated for proposal preparation and administration.
 
 | Item | Calculation | USDT |
 |---|---:|---:|
@@ -104,10 +104,10 @@ An additional **200 USDT** is allocated for proposal preparation and administrat
 | Proposal preparation and administration |  | 200 |
 | **Total** |  | **6,800** |
 
-The proposal also requests **50,000 GNK**:
+The proposal also requests 50,000 GNK:
 
-- **30,000 GNK** as part of the compensation pool for Marketing Committee members for the work covered by this proposal;
-- **20,000 GNK** as a contributor pool to support participation and activity within the Reddit Contributor Pilot.
+- 30,000 GNK as part of the compensation pool for Marketing Committee members for the work covered by this proposal;
+- 20,000 GNK as a contributor pool to support participation and activity within the Reddit Contributor Pilot.
 
 Distribution within these pools will depend on actual contribution and participation.
 
